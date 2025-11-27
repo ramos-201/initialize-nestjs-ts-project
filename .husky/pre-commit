@@ -3,5 +3,6 @@
 
 pnpm lint-staged
 
-# Update ...
-pnpm test:e2e
+# TODO: add ->
+# pnpm test:e2e
+# pnpm test
